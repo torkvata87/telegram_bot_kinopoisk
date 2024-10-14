@@ -25,7 +25,7 @@
 ## 🚀 Основные возможности
 <div align="center">
     <img src="https://github.com/user-attachments/assets/256c19ac-59b1-43b0-af17-800a67628497" alt="Описание изображения" width="250"/>
-    <img src="https://github.com/user-attachments/assets/b60a9d0c-4740-46cb-a373-7dac7eac2cb6" alt="Описание изображения" width="250"/>
+    <img src="https://github.com/user-attachments/assets/b60a9d0c-4740-46cb-a373-7dac7eac2cb6" alt="Описание изображения" width="250"/><br>
     <img src="https://github.com/user-attachments/assets/c865d987-f2c5-4f75-b26c-6ffe42894ed8" alt="Описание изображения" width="250"/>
     <img src="https://github.com/user-attachments/assets/b3202370-2062-4c00-ad2f-7c2dfac2ca78" alt="Описание изображения" width="250"/>
 </div>
