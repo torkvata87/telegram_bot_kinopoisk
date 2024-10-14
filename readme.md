@@ -1,11 +1,11 @@
 # 🤖 Телеграм-бот для поиска фильмов на базе Кинопоиск
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/d4024239-2b78-4119-b806-d781cd2c5a77" alt="Описание изображения" width="200"/>
-    <img src="https://github.com/user-attachments/assets/b08d1bd4-0818-4489-bf6a-9fa7809ee61f" alt="Описание изображения" width="200"/>
-    <img src="https://github.com/user-attachments/assets/960d0e78-e411-4d4d-a76e-7993b3cb0472" alt="Описание изображения" width="200"/>
-    <img src="https://github.com/user-attachments/assets/f235c694-cbd0-4136-8392-09dead8bea10" alt="Описание изображения" width="200"/>
-    <img src="https://github.com/user-attachments/assets/03ca70ac-8ae7-433d-8e91-4453f58aea32" alt="Описание изображения" width="200"/>
-    <img src="https://github.com/user-attachments/assets/b5f17168-fb8c-4984-b2e6-3730382c7c0f" alt="Описание изображения" width="200"/>
+    <img src="https://github.com/user-attachments/assets/d4024239-2b78-4119-b806-d781cd2c5a77" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/b08d1bd4-0818-4489-bf6a-9fa7809ee61f" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/960d0e78-e411-4d4d-a76e-7993b3cb0472" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/f235c694-cbd0-4136-8392-09dead8bea10" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/03ca70ac-8ae7-433d-8e91-4453f58aea32" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/b5f17168-fb8c-4984-b2e6-3730382c7c0f" alt="Описание изображения" width="300"/>
 </div>
 
 
@@ -24,10 +24,10 @@
 
 ## 🚀 Основные возможности
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/256c19ac-59b1-43b0-af17-800a67628497" alt="Описание изображения" width="200"/>
-    <img src="https://github.com/user-attachments/assets/b60a9d0c-4740-46cb-a373-7dac7eac2cb6" alt="Описание изображения" width="200"/>
-    <img src="https://github.com/user-attachments/assets/c865d987-f2c5-4f75-b26c-6ffe42894ed8" alt="Описание изображения" width="200"/>
-    <img src="https://github.com/user-attachments/assets/b3202370-2062-4c00-ad2f-7c2dfac2ca78" alt="Описание изображения" width="200"/>
+    <img src="https://github.com/user-attachments/assets/256c19ac-59b1-43b0-af17-800a67628497" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/b60a9d0c-4740-46cb-a373-7dac7eac2cb6" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/c865d987-f2c5-4f75-b26c-6ffe42894ed8" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/b3202370-2062-4c00-ad2f-7c2dfac2ca78" alt="Описание изображения" width="300"/>
 </div>
 
 
