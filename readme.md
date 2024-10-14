@@ -1,12 +1,11 @@
 # 🤖 Телеграм-бот для поиска фильмов на базе Кинопоиск
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/e90b1509-49b9-4d79-8b9c-b6f1c1c830c4" alt="Описание изображения" width="300"/>
-    <img src="https://github.com/user-attachments/assets/d4024239-2b78-4119-b806-d781cd2c5a77" alt="Описание изображения" width="300"/>
-    <img src="https://github.com/user-attachments/assets/b08d1bd4-0818-4489-bf6a-9fa7809ee61f" alt="Описание изображения" width="300"/>
-    <img src="https://github.com/user-attachments/assets/960d0e78-e411-4d4d-a76e-7993b3cb0472" alt="Описание изображения" width="300"/>
-    <img src="https://github.com/user-attachments/assets/f235c694-cbd0-4136-8392-09dead8bea10" alt="Описание изображения" width="300"/>
-    <img src="https://github.com/user-attachments/assets/03ca70ac-8ae7-433d-8e91-4453f58aea32" alt="Описание изображения" width="300"/>
-    <img src="https://github.com/user-attachments/assets/b5f17168-fb8c-4984-b2e6-3730382c7c0f" alt="Описание изображения" width="300"/>
+    <img src="https://github.com/user-attachments/assets/d4024239-2b78-4119-b806-d781cd2c5a77" alt="Описание изображения" height="300"/>
+    <img src="https://github.com/user-attachments/assets/b08d1bd4-0818-4489-bf6a-9fa7809ee61f" alt="Описание изображения" height="300"/>
+    <img src="https://github.com/user-attachments/assets/960d0e78-e411-4d4d-a76e-7993b3cb0472" alt="Описание изображения" height="300"/>
+    <img src="https://github.com/user-attachments/assets/f235c694-cbd0-4136-8392-09dead8bea10" alt="Описание изображения" height="300"/>
+    <img src="https://github.com/user-attachments/assets/03ca70ac-8ae7-433d-8e91-4453f58aea32" alt="Описание изображения" height="300"/>
+    <img src="https://github.com/user-attachments/assets/b5f17168-fb8c-4984-b2e6-3730382c7c0f" alt="Описание изображения" height="300"/>
 </div>
 
 
